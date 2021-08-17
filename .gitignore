@@ -1,0 +1,10 @@
+.env
+.vscode
+.agenda_fisio
+*.sqlite3
+*pyc
+__pycache__
+c*.txt
+*.code*
+staticfiles
+.ipynb_checkpoints/
